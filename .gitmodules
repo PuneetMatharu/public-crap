@@ -1,0 +1,3 @@
+[submodule "private-oomph"]
+	path = private-crap
+	url = https://github.com/PuneetMatharu/private-crap.git
